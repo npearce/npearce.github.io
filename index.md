@@ -1,6 +1,6 @@
 # Prototypes
 
-Greetings! This is where I create and share prototypes of ideas that I'm pondering at F5 Networks. All work posted here is 'community supported', which means if you run into a problem, please create a GitHub Issue under the repository and I test/fix as soon as I can. 
+Greetings! This is where I create and share prototypes of ideas that I'm pondering at F5 Networks. All work posted here is 'community supported', which means if you run into a problem, please create a GitHub Issue under the repository and I will test/fix as soon as I can.
 
 There's no SLA on this because its opensource!
 
