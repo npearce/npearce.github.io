@@ -16,6 +16,8 @@ To learn more about NIaC, visit: [https://redtalks.live/niac](https://redtalks.l
 
 To take a look at the iControl LX webhook server, which deliver NIaC for the F5 BIG-IP, take a look at the repository, here: [https://github.com/npearce/n8-GHE_IaC_WebHook](https://github.com/npearce/n8-GHE_IaC_WebHook)
 
+**To request a feature, click "New Issue", here:** [https://github.com/npearce/n8-GHE_IaC_WebHook/issues](https://github.com/npearce/n8-GHE_IaC_WebHook/issues)
+
 ---
 
 ## BigStats
@@ -31,6 +33,8 @@ BigStats is a *stat exporter* that runs on the F5 BIG-IP allowing administrators
 * Apacke Kafka
 
 [https://github.com/npearce/n8-BigStats/](https://github.com/npearce/n8-BigStats/)
+
+**To request a feature, click "New Issue", here:** [https://github.com/npearce/n8-BigStats/issues](https://github.com/npearce/n8-BigStats/issues) 
 
 ---
 
